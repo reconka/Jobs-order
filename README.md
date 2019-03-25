@@ -1,4 +1,23 @@
-# Intro
+
+# Getting Started
+![screenshot](https://i.imgur.com/zYfrxtC.jpg)
+ ## Installation Steps
+  - Clone this repo to your local machine
+  - Open terminal and type: ```composer install```
+
+ ## How to run the Unit test?
+  - Run ```./vendor/bin/phpunit``` command in the root
+
+## How to run the application?
+ - Go to source of your project
+ - run ```php application JobProcessing```
+
+## Built With
+ * [LaravelZero](https://github.com/laravel-zero/laravel-zero) - Minimal PHP framework for console artisans
+
+# Task
+
+## Intro
 
 The purpose of this exercise is to see how you approach a problem, and how you solve it. We’re
 interested to see how you structure your code, your command of the language and good design and
@@ -12,7 +31,7 @@ idea how you approached the problem).
 
 Have Fun.
 
-# The Challenge
+## The Challenge
 
 Imagine we have a list of jobs, each represented by a character. Because certain jobs must be done
 before others, a job may have a dependency on another job. For example, a may depend on b, meaning
