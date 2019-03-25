@@ -23,10 +23,11 @@ The purpose of this exercise is to see how you approach a problem, and how you s
 interested to see how you structure your code, your command of the language and good design and
 testing principles, bear this in mind throughout.
 
-**HINT** : Start with a method that accepts a single string argument and returns a string (or a collection)
-which represents the ordered sequence of jobs (since each job is a single character).
+**HINT** : Start with a method that accepts a single string argument and returns a string (or a collection) which represents the ordered sequence of jobs (since each job is a single character).
+
 **HINT** : Brownie points will be given for showing us your working (notes, commit history, some kind of
 idea how you approached the problem).
+
 **HINT** : We’re pretty keen on tested code.
 
 Have Fun.
