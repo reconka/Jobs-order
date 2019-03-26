@@ -1,0 +1,6 @@
+/vendor
+/.idea
+/.vscode
+/.vagrant
+.editorconfig
+.php_cs.cache
